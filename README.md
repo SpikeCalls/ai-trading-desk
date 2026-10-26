@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="assets/banner.png" alt="The AI Trading Desk: launches in, one decision out" width="100%">
+<img src="assets/hero.png" alt="The AI Trading Desk: the AI reads, the code decides, you sign" width="100%">
 
 # The AI Trading Desk
 
 **Every launch scanned. Every dev wallet checked. Claude scores what's left, code sizes the trade, and you only see what survives.**
 
-[![Tests](https://github.com/spikecalls/ai-trading-desk/actions/workflows/tests.yml/badge.svg)](https://github.com/spikecalls/ai-trading-desk/actions/workflows/tests.yml)
+[![Tests](https://github.com/SpikeCalls/ai-trading-desk/actions/workflows/tests.yml/badge.svg)](https://github.com/SpikeCalls/ai-trading-desk/actions/workflows/tests.yml)
 ![Python](https://img.shields.io/badge/python-3.10%2B-2EE59D?style=flat-square&labelColor=0B0F16)
 ![Mode](https://img.shields.io/badge/mode-paper%20only-5AA9FF?style=flat-square&labelColor=0B0F16)
 ![Keys](https://img.shields.io/badge/private%20keys-zero-FF4D6D?style=flat-square&labelColor=0B0F16)
@@ -29,12 +29,14 @@
 
 In a study of **832,941** pump.fun launches (May to June 2026), **0.198%** graduated from the bonding curve. Launches that advertised a Telegram graduated at **1.485%**; launches without one at **0.166%**. ([arXiv 2607.02823](https://ideas.repec.org/p/arx/papers/2607.02823.html))
 
+<img src="assets/banner.png" alt="Launches in, one decision out" width="100%">
+
 The information that kills a bad trade is public and one click away: the holder tab, the dev wallet, the mint authority, the socials. Humans skip it because it takes 60 seconds and the candle takes 4. A machine doesn't skip.
 
 ## ⚡ Quick start
 
 ```bash
-git clone https://github.com/spikecalls/ai-trading-desk.git
+git clone https://github.com/SpikeCalls/ai-trading-desk.git
 cd ai-trading-desk
 python3 -m venv .venv && source .venv/bin/activate
 pip install -r requirements.txt
@@ -241,6 +243,6 @@ Daily alpha, setups and desk updates: **[Telegram](https://t.me/+Ykc8YKaJR6Q3NDN
 
 **Not financial advice.** Paper first. DYOR.
 
-MIT © spikecalls
+MIT © SpikeCalls
 
 </div>
