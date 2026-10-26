@@ -1,0 +1,4 @@
+anthropic>=0.70
+pydantic>=2.7
+requests>=2.31
+alpaca-py>=0.30   # stocks mode only
